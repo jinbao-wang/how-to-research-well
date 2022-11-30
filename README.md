@@ -21,6 +21,8 @@
 
 + [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
 
++ [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+
 # 至理名言
 <!--
 # 如沐春风
