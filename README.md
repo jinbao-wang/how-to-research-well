@@ -15,8 +15,13 @@
 # 实例：实验用图风格
 # 实例：结果可视化方法
 
+# 相关资源
 
++ [Doing the PhD](https://github.com/shengyp/doing_the_PhD)
 
++ [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
+
+# 至理名言
 <!--
 # 如沐春风
 
