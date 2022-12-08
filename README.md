@@ -13,7 +13,17 @@
 
 
 # 实例：实验用图风格
+
+
 # 实例：结果可视化方法
+<img src="./imgs/result_1.jpeg" width=400 alt="示例1" align=center>
+
+----
+<img src="./imgs/result_2.jpeg" width=400 alt="示例1" align=center>
+
+----
+
+<img src="./imgs/result_3.jpeg" width=400 alt="示例1" align=center>
 
 # 相关资源
 
@@ -22,6 +32,7 @@
 + [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
 
 + [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+
 
 # 至理名言
 <!--
