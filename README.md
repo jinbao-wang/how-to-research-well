@@ -22,11 +22,12 @@
 
 
 ## 可视化资源
++ [OriginLab](https://www.originlab.com/Origin)
++ [Python-graph-gallery](https://www.python-graph-gallery.com/)
 + [Python-seaborn](https://seaborn.pydata.org/)
 + [Python-pyecharts](https://github.com/pyecharts/pyecharts)
 + [Python-plotpy](https://plotly.com/python/)
-+ [Python-graph-gallery](https://www.python-graph-gallery.com/)
-+ [OriginLab](https://www.originlab.com/Origin)
+
 
 
 # 2 如何准备顶会文章？
