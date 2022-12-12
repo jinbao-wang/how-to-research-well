@@ -36,6 +36,9 @@
 + [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV)
 + [CCF Conference Deadlines](https://ccfddl.github.io/)
 
+## 文章题目命名
+文章名缩写 [https://acronymify.com/](https://acronymify.com/)
+
 ## 实验用图风格
 <img src="./imgs/flow_1.jpeg" width=600 alt="示例" align=center>
 
