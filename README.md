@@ -35,18 +35,16 @@
 + [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV)
 + [CCF Conference Deadlines](https://ccfddl.github.io/)
 
-## 实例：实验用图风格
+## 实验用图风格
+<img src="./imgs/flow_1.jpeg" width=600 alt="示例" align=center>
 
+更多[实验流程图](./doc/flowchart.md)
 
-## 实例：结果可视化方法
-<img src="./imgs/result_1.jpeg" width=500 alt="示例1" align=center>
+## 结果可视化方法
+<img src="./imgs/result_3.jpeg" width=500 alt="示例3" align=center>
 
-----
-<img src="./imgs/result_2.jpeg" width=500 alt="示例1" align=center>
+更多[可视化方法](./doc/visualization.md)
 
-----
-
-<img src="./imgs/result_3.jpeg" width=500 alt="示例1" align=center>
 
 <!--
 # 如沐春风
