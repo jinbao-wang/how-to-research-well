@@ -21,14 +21,6 @@
 + [文章写作技巧](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
 
-## 可视化资源
-+ [OriginLab](https://www.originlab.com/Origin)
-+ [Python-graph-gallery](https://www.python-graph-gallery.com/)
-+ [Python-seaborn](https://seaborn.pydata.org/)
-+ [Python-pyecharts](https://github.com/pyecharts/pyecharts)
-+ [Python-plotpy](https://plotly.com/python/)
-
-
 
 # 2 如何准备顶会文章？
 
@@ -36,8 +28,22 @@
 + [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV)
 + [CCF Conference Deadlines](https://ccfddl.github.io/)
 
-## 文章题目命名
-文章名缩写 [https://acronymify.com/](https://acronymify.com/)
+## 写文章工具
+
++ 写文章 [https://www.overleaf.com/](https://www.overleaf.com/)
+
++ 题目名缩写 [https://acronymify.com/](https://acronymify.com/)
+
++ 文字润色 [https://quillbot.com/](https://quillbot.com/)
+
+
+## 可视化资源
++ [OriginLab](https://www.originlab.com/Origin)
++ [Python-graph-gallery](https://www.python-graph-gallery.com/)
++ [Python-seaborn](https://seaborn.pydata.org/)
++ [Python-pyecharts](https://github.com/pyecharts/pyecharts)
++ [Python-plotpy](https://plotly.com/python/)
+
 
 ## 实验用图风格
 <img src="./imgs/flow_1.jpeg" width=600 alt="示例" align=center>
