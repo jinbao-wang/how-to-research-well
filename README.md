@@ -1,4 +1,7 @@
-# 科研方法
+# 1 科研方法
+本文研究邻域为：机器学习、计算机视觉。
+
+## 大道至简
 
 + 学会优化，当事情复杂的时候，停下来想尽办法去优化
 
@@ -9,38 +12,42 @@
 + 找简单的工具，方便自己工作
 
 
-# 如何准备顶会文章？
+## 相关资源
 
++ [如何做PhD？](https://github.com/shengyp/doing_the_PhD)
 
-# 实例：实验用图风格
++ [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
 
++ [文章写作技巧](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
-# 实例：结果可视化方法
-<img src="./imgs/result_1.jpeg" width=400 alt="示例1" align=center>
-
-----
-<img src="./imgs/result_2.jpeg" width=400 alt="示例1" align=center>
-
-----
-
-<img src="./imgs/result_3.jpeg" width=400 alt="示例1" align=center>
 
 ## 可视化资源
 + [Python-seaborn](https://seaborn.pydata.org/)
 + [Python-pyecharts](https://github.com/pyecharts/pyecharts)
 + [Python-plotpy](https://plotly.com/python/)
 + [Python-graph-gallery](https://www.python-graph-gallery.com/)
-+ [origin] https://www.originlab.com/Origin
++ [OriginLab](https://www.originlab.com/Origin)
 
-# 相关资源
 
-+ [Doing the PhD](https://github.com/shengyp/doing_the_PhD)
+# 2 如何准备顶会文章？
 
-+ [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
+## 会议查询和截止日期
++ [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV)
++ [CCF Conference Deadlines](https://ccfddl.github.io/)
 
-+ [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+## 实例：实验用图风格
 
-# 至理名言
+
+## 实例：结果可视化方法
+<img src="./imgs/result_1.jpeg" width=500 alt="示例1" align=center>
+
+----
+<img src="./imgs/result_2.jpeg" width=500 alt="示例1" align=center>
+
+----
+
+<img src="./imgs/result_3.jpeg" width=500 alt="示例1" align=center>
+
 <!--
 # 如沐春风
 
