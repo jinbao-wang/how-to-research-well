@@ -26,9 +26,9 @@
 <img src="./imgs/result_3.jpeg" width=400 alt="示例1" align=center>
 
 ## 可视化资源
-+ [seaborn] (https://seaborn.pydata.org/)
-+ [pyecharts] (https://github.com/pyecharts/pyecharts)
-+ [plotpy] (https://plotly.com/python/)
++ [Python-seaborn](https://seaborn.pydata.org/)
++ [Python-pyecharts](https://github.com/pyecharts/pyecharts)
++ [Python-plotpy](https://plotly.com/python/)
 + [Python-graph-gallery](https://www.python-graph-gallery.com/)
 + [origin] https://www.originlab.com/Origin
 
