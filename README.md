@@ -25,6 +25,10 @@
 
 <img src="./imgs/result_3.jpeg" width=400 alt="示例1" align=center>
 
+## 可视化资源
++ [Python-graph-gallery](https://www.python-graph-gallery.com/)
+
+
 # 相关资源
 
 + [Doing the PhD](https://github.com/shengyp/doing_the_PhD)
@@ -32,7 +36,6 @@
 + [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
 
 + [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
-
 
 # 至理名言
 <!--
