@@ -34,7 +34,7 @@
 
 + 题目名缩写 [https://acronymify.com/](https://acronymify.com/)
 
-+ 文字润色 [https://quillbot.com/](https://quillbot.com/)
++ 文字润色 [https://quillbot.com/](https://quillbot.com/) 和 [https://app.grammarly.com/](https://app.grammarly.com/)
 
 
 ## 可视化资源
