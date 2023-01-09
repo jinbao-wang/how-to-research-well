@@ -44,9 +44,11 @@
 + [Python-pyecharts](https://github.com/pyecharts/pyecharts)
 + [Python-plotpy](https://plotly.com/python/)
 
+## 数据集展示
+<img src="./imgs/result_14.jpg" width=500 alt="示例1" align=center>
 
 ## 实验用图风格
-<img src="./imgs/flow_1.jpeg" width=600 alt="示例" align=center>
+<img src="./imgs/flow_1.jpeg" width=600 alt="示例2" align=center>
 
 更多[实验流程图](./doc/flowchart.md)
 
