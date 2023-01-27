@@ -20,7 +20,7 @@
 
 + [文章写作技巧](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
-
++ [顶会论文写作建议](https://zhuanlan.zhihu.com/p/593195527?utm_campaign=shareopn&utm_medium=social&utm_oi=1260929451040067584&utm_psn=1601593849972994048&utm_source=wechat_session)
 
 # 2 如何准备顶会文章？
 
