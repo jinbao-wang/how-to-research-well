@@ -43,7 +43,6 @@
 + [Python-seaborn](https://seaborn.pydata.org/)
 + [Python-pyecharts](https://github.com/pyecharts/pyecharts)
 + [Python-plotpy](https://plotly.com/python/)
-+ [IconFont](https://www.iconfont.cn/)
 
 ## 数据集展示
 <img src="./imgs/result_14.jpg" width=500 alt="示例1" align=center>
@@ -75,4 +74,6 @@
 + 如果一个idea还在讨论的时候，你说肯定不行，那你肯定不是xx课题组的成员
 
 + Deadline来了 难道你们现在不感到兴奋吗？
+
++ 要提升科研品味，现在还是不太行
 -->
