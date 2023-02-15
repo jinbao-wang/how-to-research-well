@@ -16,6 +16,8 @@
 
 + [如何做PhD？](https://github.com/shengyp/doing_the_PhD)
 
++ [给博士生的建议](https://github.com/pliang279/awesome-phd-advice)
+
 + [助理教授/博士生生存指南](https://github.com/JunweiLiang/awesome_lists)
 
 + [文章写作技巧](https://github.com/MLNLP-World/Paper-Writing-Tips)
