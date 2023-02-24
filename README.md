@@ -38,6 +38,7 @@
 
 + 文字润色 [https://quillbot.com/](https://quillbot.com/) 和 [https://app.grammarly.com/](https://app.grammarly.com/)
 
++ 画图配色 [https://webgradients.com](https://webgradients.com)
 
 ## 可视化资源
 + [OriginLab](https://www.originlab.com/Origin)
@@ -63,6 +64,10 @@
 
 <!--
 # 如沐春风
+
++ 技术理想主义年轻人，大家努力
+
++ 大家还是小心，骗子的智商不低，也不要高估自己智商
 
 + 作为一个努力的人，一天工作10个小时，非常正常，我想实验室现在工作时间大于我的人不多，我起码都是10个小时工作时间
 
