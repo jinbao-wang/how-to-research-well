@@ -40,13 +40,14 @@
 
 + 画图配色 [https://webgradients.com](https://webgradients.com)
 
++ 小图标参考 [IconFont](https://www.iconfont.cn/)
+
 ## 可视化资源
 + [OriginLab](https://www.originlab.com/Origin)
 + [Python-graph-gallery](https://www.python-graph-gallery.com/)
 + [Python-seaborn](https://seaborn.pydata.org/)
 + [Python-pyecharts](https://github.com/pyecharts/pyecharts)
 + [Python-plotpy](https://plotly.com/python/)
-+ [IconFont](https://www.iconfont.cn/)
 
 ## 数据集展示
 <img src="./imgs/result_14.jpg" width=500 alt="示例1" align=center>
