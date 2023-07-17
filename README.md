@@ -24,6 +24,8 @@
 
 + [顶会论文写作建议](https://zhuanlan.zhihu.com/p/593195527?utm_campaign=shareopn&utm_medium=social&utm_oi=1260929451040067584&utm_psn=1601593849972994048&utm_source=wechat_session)
 
++ [什么是Novelty？](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)
+
 # 2 如何准备顶会文章？
 
 ## 会议查询和截止日期
